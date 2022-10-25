@@ -14,4 +14,4 @@ I'm Sebastian, a Computer Science student at EAFIT university.
 - 💬 Ping me about **React**, **React Native**, **Design**, **Mobile Development**, **Mobile accessibility**
 - ⚡️ Fun fact: I'm a huge fan of Spiderman into the Spider-verse 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sebasbeleno&rank=-C,-B)](https://github.com/sebasbeleno)
+[![trophy](https://github-profile-trophy.vercel.app/?username=sebasbeleno&rank=-C,-B&margin-w=15)](https://github.com/sebasbeleno)
