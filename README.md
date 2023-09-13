@@ -1,6 +1,6 @@
 # Hey There! 👋
 
-I'm Sebastian, a Computer Science student at EAFIT university. 
+I'm Sebastian, a Computer Science student at EAFIT University. 
 
 ### Now
 
@@ -9,7 +9,7 @@ I'm Sebastian, a Computer Science student at EAFIT university.
 
 ### Bio
 - ⚙️ I use daily: `.ts`, `.js`, `.py`, `.css`
-- 🌍 I'm mostly active within the **Perficient Community**
+- 🌍 I'm mostly active within the **EAFIT Innovation and technology Community**
 - 🌱 Learning all about Open Source
 - 💬 Ping me about **React**, **React Native**, **Design**, **Mobile Development**, **Mobile accessibility**
 - ⚡️ Fun fact: I'm a huge fan of Spiderman into the Spider-verse 
