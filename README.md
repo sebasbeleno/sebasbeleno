@@ -1,6 +1,6 @@
 # Hey There! 👋
 
-I'm Sebastian, a Computer Science student at EAFIT University. 
+React Native developer with a obsession for highly interactive and efficient mobile apps.
 
 ### Now
 
