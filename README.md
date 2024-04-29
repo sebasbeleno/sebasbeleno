@@ -1,11 +1,6 @@
 # Hey There! 👋
 
-React Native developer with a obsession for highly interactive and efficient mobile apps.
-
-### Now
-
-- 🏢 React Native Software developer at Perficient
-- 📱 Building Mony (Coming soon)
+Software engineer with a obsession for highly interactive and efficient mobile apps.
 
 ### Bio
 - ⚙️ I use daily: `.ts`, `.js`, `.py`, `.css`
